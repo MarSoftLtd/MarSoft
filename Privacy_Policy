@@ -1,26 +1,102 @@
+Politica de Confidențialitate
 
-Privacy Policy
-[["We" or "I", or Website or App name]] takes your privacy seriously. To better protect your privacy [["we" or "I"]] provide this privacy policy notice explaining the way your personal information is collected and used.
+Această aplicație respectă confidențialitatea utilizatorilor și se angajează să protejeze datele personale în conformitate cu legislația în vigoare. Informațiile de mai jos explică modul în care sunt colectate, utilizate și protejate datele atunci când utilizați aplicația.
 
-Collection of Routine Information
-This [["website" or "app"]] track basic information about their [["visitors" or "users"]]. This information includes, but is not limited to, IP addresses, [["browser" or "app"]] details, timestamps and referring pages. None of this information can personally identify specific [["visitors" or "user"]] to this [["website" or "app"]]. The information is tracked for routine administration and maintenance purposes.
+1. Date colectate
 
-Cookies
-Where necessary, this [["website" or "app"]] uses cookies to store information about a visitor’s preferences and history in order to better serve the [["visitor" or "user"]] and/or present the [["visitor" or "user"]] with customized content.
+Aplicația poate colecta următoarele categorii de date:
 
-Advertisement and Other Third Parties
-Advertising partners and other third parties may use cookies, scripts and/or web beacons to track [["visitors" or "user"]] activities on this [["website" or "app"]] in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This [["website" or "app"]] has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to opt out of Google’s cookie usage.
+1.1. Date tehnice
 
-Links to Third Party Websites
-[["We" or "I"]] have included links on this [["website" or "app"]] for your use and reference. [["We" or "I"]] are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from [["our" or "my"]] own.
+Colectate automat de dispozitiv:
 
-Security
-The security of your personal information is important to [["us" or "me"]], but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While [["we" or "I"]] strive to use commercially acceptable means to protect your personal information, [["we" or "I"]] cannot guarantee its absolute security.
+tipul și modelul dispozitivului
 
-Changes To This Privacy Policy
-This Privacy Policy is effective as of [[Date]] and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+versiunea sistemului de operare
 
-[["We" or "I"]] reserve the right to update or change [["our" or "my"]] Privacy Policy at any time and you should check this Privacy Policy periodically. If [["we" or "I"]] make any material changes to this Privacy Policy, [["we" or "I"]] will notify you either through the email address you have provided [["us" or "me"]], or by placing a prominent notice on [["our" or "my"]] [["website" or "app"]].
+setările aplicației
 
-Contact Information
-For any questions or concerns regarding the privacy policy, please send [["us" or "me"]] an email to [[Contact Email Address]].
+identificatori anonimi de performanță
+
+statistici privind utilizarea funcțiilor din aplicație
+
+Aceste date sunt folosite exclusiv pentru îmbunătățirea stabilității și funcționării aplicației.
+
+1.2. Date furnizate de serviciile terțe (dacă sunt utilizate)
+
+Dacă aplicația folosește componente precum:
+
+Google Play Services
+
+AdMob / UMP
+
+Firebase Analytics
+
+Crashlytics
+
+aceste servicii pot colecta date anonime sau pseudonime despre utilizare, conform propriilor politici.
+
+Dezvoltatorul aplicației nu poate identifica personal utilizatorii pe baza acestor date.
+
+2. Utilizarea datelor
+
+Datele colectate sunt utilizate exclusiv pentru:
+
+îmbunătățirea performanței aplicației
+
+detectarea și remedierea problemelor tehnice
+
+afișarea conținutului sau reclamelor (dacă există)
+
+analizarea modului de utilizare pentru a optimiza experiența oferită
+
+Nu utilizăm datele pentru profilare, marketing agresiv sau identificarea utilizatorilor.
+
+3. Stocarea datelor
+
+Aplicația nu stochează date personale pe serverele dezvoltatorului.
+Datele tehnice alimentate de terți (Google/AdMob/Firebase) sunt stocate de acele platforme conform propriilor termeni.
+
+4. Transferul datelor
+
+Dezvoltatorul nu transferă, nu vinde și nu distribuie date personale către alte persoane sau entități.
+
+5. Linkuri către site-uri externe
+
+Aplicația poate include linkuri către site-uri externe (ex: pagini informative, politici externe, canale media).
+Nu ne asumăm responsabilitatea pentru:
+
+conținutul publicat pe site-uri externe
+
+politicile de confidențialitate ale acestora
+
+modul în care acestea procesează datele
+
+Utilizatorul este încurajat să citească politicile fiecărui site accesat.
+
+6. Siguranța datelor
+
+Implementăm măsuri rezonabile pentru a proteja datele transmise între aplicație și serviciile externe.
+Totuși, nicio metodă electronică nu este 100% sigură.
+
+Utilizatorul folosește aplicația pe propria răspundere.
+
+7. Drepturile utilizatorului
+
+În funcție de teritoriul de rezidență, utilizatorul poate avea dreptul să solicite:
+
+acces la date
+
+ștergerea datelor
+
+rectificarea datelor
+
+restricționarea procesării
+
+Aceste drepturi se aplică numai datelor controlate de dezvoltator.
+Pentru date colectate de servicii terțe (AdMob, Firebase etc.), solicitările trebuie trimise direct operatorilor respectivi.
+
+8. Modificări ale politicii
+
+Politica poate fi actualizată periodic pentru a reflecta modificări legislative sau funcționale.
+Ultima versiune va fi disponibilă întotdeauna în același link GitHub.
