@@ -1,102 +1,203 @@
-Politica de Confidențialitate
+Privacy Policy – AI Memory Search
 
-Această aplicație respectă confidențialitatea utilizatorilor și se angajează să protejeze datele personale în conformitate cu legislația în vigoare. Informațiile de mai jos explică modul în care sunt colectate, utilizate și protejate datele atunci când utilizați aplicația.
+Last updated: August 13, 2026
 
-1. Date colectate
+AI Memory Search respects user privacy and is designed to provide intelligent search across user-authorized content while keeping indexing and AI processing primarily on the user's device.
 
-Aplicația poate colecta următoarele categorii de date:
+This Privacy Policy explains what information AI Memory Search may access, how that information is used, where it is processed and stored, and what controls users have over their data.
 
-1.1. Date tehnice
+1. How AI Memory Search Works
 
-Colectate automat de dispozitiv:
+AI Memory Search allows users to search through content that they authorize the application to access and index.
 
-tipul și modelul dispozitivului
+Depending on the features enabled and permissions granted by the user, this content may include:
 
-versiunea sistemului de operare
+Documents
+PDF files
+Word, Excel, and PowerPoint files
+Text files and other supported document formats
+Images
+Email messages
+Email attachments
 
-setările aplicației
+AI Memory Search creates a local index to provide fast semantic and text-based search across this content.
 
-identificatori anonimi de performanță
+2. Access to Files and Images
 
-statistici privind utilizarea funcțiilor din aplicație
+With the user's permission, AI Memory Search may access files and images available on the device in order to include them in the local search index.
 
-Aceste date sunt folosite exclusiv pentru îmbunătățirea stabilității și funcționării aplicației.
+Depending on the type of content, the application may process information such as:
 
-1.2. Date furnizate de serviciile terțe (dacă sunt utilizate)
+File name
+File location or path
+File type and extension
+Text contained in documents
+Text detected in images, where supported
+Metadata necessary for indexing and search
+Information necessary to generate local semantic search representations
 
-Dacă aplicația folosește componente precum:
+This information is used only to provide the application's search and indexing functionality.
+
+3. Access to Email
+
+AI Memory Search may allow users to include email messages in their local search index.
+
+Access to an email account occurs only after the user grants the required authorization and is performed using the security and authorization mechanisms provided by the respective email service provider.
+
+Different email providers may require different authorization methods and permissions.
+
+4. Gmail and Google User Data
+
+For Gmail accounts, AI Memory Search uses the Gmail API and may request read-only access to the user's Gmail data.
+
+After the user grants permission, AI Memory Search may access information necessary for indexing and search, including:
+
+Email subject
+Sender
+Recipients
+Message date and time
+Message content
+Technical message and thread identifiers required for synchronization
+Attachment metadata
+Attachment content when required for search functionality and supported by the application
+
+Google user data is accessed exclusively to provide user-facing features such as local email indexing, synchronization of the local index, and search across the user's messages and attachments.
+
+AI Memory Search does not use Gmail access to send emails on behalf of the user.
+
+The application does not modify or delete Gmail messages through the read-only permission requested by AI Memory Search.
+
+5. Use of Google User Data
+
+Information received from Google APIs is used exclusively to provide and improve the user-facing functionality of AI Memory Search.
+
+Google user data is not used for:
+
+Advertising
+Personalized advertising
+Advertising profiling
+Selling user data
+Providing data to data brokers
+User surveillance
+Unrelated marketing purposes
+Any purpose unrelated to the functionality requested by the user
+
+AI Memory Search's use and transfer of information received from Google APIs will adhere to the Google API Services User Data Policy, including the Limited Use requirements.
+
+6. Local Processing
+
+AI Memory Search is designed around local processing.
+
+Document, image, and email indexing, search processing, and the resulting search index are performed and stored locally on the user's device where supported by the relevant functionality.
+
+The content of documents, images, and email messages indexed by AI Memory Search is not uploaded to developer-operated servers for AI indexing or semantic search processing.
+
+Local AI models used by AI Memory Search run on the user's device where the corresponding functionality is provided locally.
+
+Connecting to an external provider such as Gmail necessarily requires communication with that provider's servers to retrieve and synchronize data that the user has authorized AI Memory Search to access.
+
+7. Data Storage
+
+The AI Memory Search index and information necessary for its operation are stored locally on the user's device.
+
+The developer does not operate a cloud service for storing the contents of users' indexed emails, documents, images, or the private AI search index.
+
+Locally stored information may remain on the device until it is removed through application functionality, Android application-data controls, or application uninstallation, as applicable.
+
+8. Data Sharing and Sale
+
+AI Memory Search does not sell the contents of users' documents, images, emails, or local search index.
+
+AI Memory Search does not provide the contents of the local search index to advertisers or data brokers.
+
+Google user data accessed for AI Memory Search functionality is not used for personalized advertising.
+
+9. Third-Party Services
+
+Depending on the application version and enabled functionality, AI Memory Search may use services or components provided by third parties, including:
 
 Google Play Services
-
-AdMob / UMP
-
+Google APIs
+Gmail API
 Firebase Analytics
+Firebase Crashlytics
+Google Mobile Ads / AdMob and User Messaging Platform (UMP), where applicable
 
-Crashlytics
+These services may independently process technical, diagnostic, advertising, or usage information according to their own privacy policies.
 
-aceste servicii pot colecta date anonime sau pseudonime despre utilizare, conform propriilor politici.
+Gmail content accessed for AI Memory Search search functionality is not provided by AI Memory Search to advertising services.
 
-Dezvoltatorul aplicației nu poate identifica personal utilizatorii pe baza acestor date.
+10. Technical and Diagnostic Data
 
-2. Utilizarea datelor
+Depending on the services enabled in the application, technical information may be processed, including:
 
-Datele colectate sunt utilizate exclusiv pentru:
+Device model
+Operating system version
+Application version
+Performance information
+Crash and diagnostic information
+Application feature usage statistics
+Technical or pseudonymous identifiers provided by integrated platforms
 
-îmbunătățirea performanței aplicației
+This information may be used for application operation, security, diagnostics, stability, and improvement.
 
-detectarea și remedierea problemelor tehnice
+11. User Permissions and Authorization
 
-afișarea conținutului sau reclamelor (dacă există)
+AI Memory Search requests access only when required for the functionality being provided.
 
-analizarea modului de utilizare pentru a optimiza experiența oferită
+Users can manage Android permissions through their device settings.
 
-Nu utilizăm datele pentru profilare, marketing agresiv sau identificarea utilizatorilor.
+For external services such as Google, users can manage or revoke access granted to AI Memory Search through the controls provided by the respective service provider.
 
-3. Stocarea datelor
+Revoking access to an external service may prevent AI Memory Search from performing future synchronization with that service.
 
-Aplicația nu stochează date personale pe serverele dezvoltatorului.
-Datele tehnice alimentate de terți (Google/AdMob/Firebase) sunt stocate de acele platforme conform propriilor termeni.
+AI Memory Search does not require users to provide their Google Account password directly to the developer.
 
-4. Transferul datelor
+12. Data Deletion
 
-Dezvoltatorul nu transferă, nu vinde și nu distribuie date personale către alte persoane sau entități.
+Because the AI Memory Search index is stored locally, users can remove locally stored application data using the functionality provided by the application or Android, including clearing application data or uninstalling the application.
 
-5. Linkuri către site-uri externe
+Users may also revoke AI Memory Search's access to their Google Account through their Google Account security settings.
 
-Aplicația poate include linkuri către site-uri externe (ex: pagini informative, politici externe, canale media).
-Nu ne asumăm responsabilitatea pentru:
+Revoking Google authorization prevents future access to Google user data covered by that authorization.
 
-conținutul publicat pe site-uri externe
+Data independently controlled by third-party services is subject to the deletion and retention mechanisms provided by those services.
 
-politicile de confidențialitate ale acestora
+13. Security
 
-modul în care acestea procesează datele
+AI Memory Search uses Android security mechanisms and the authorization mechanisms provided by integrated service providers to protect access to user data.
 
-Utilizatorul este încurajat să citească politicile fiecărui site accesat.
+Google authorization is performed using Google's official authorization mechanisms. AI Memory Search does not request that users provide their Google Account password to the developer.
 
-6. Siguranța datelor
+Reasonable measures are used to protect information from unauthorized access. However, no electronic storage or transmission method can guarantee absolute security.
 
-Implementăm măsuri rezonabile pentru a proteja datele transmise între aplicație și serviciile externe.
-Totuși, nicio metodă electronică nu este 100% sigură.
+14. User Rights
 
-Utilizatorul folosește aplicația pe propria răspundere.
+Depending on applicable law and the nature of the information being processed, users may have rights relating to:
 
-7. Drepturile utilizatorului
+Access to personal data
+Correction of personal data
+Deletion of personal data
+Restriction of processing
+Withdrawal of consent
+Revocation of access granted to connected services
 
-În funcție de teritoriul de rezidență, utilizatorul poate avea dreptul să solicite:
+For information stored exclusively on the user's device, users retain direct control through AI Memory Search and Android system controls.
 
-acces la date
+For information independently controlled by Google or another service provider, users should use the privacy and account-management mechanisms provided by that provider.
 
-ștergerea datelor
+15. External Links and Services
 
-rectificarea datelor
+AI Memory Search may contain links to external websites or services.
 
-restricționarea procesării
+External services operate under their own privacy policies and data practices. AI Memory Search does not control the independent privacy practices of external websites and services.
 
-Aceste drepturi se aplică numai datelor controlate de dezvoltator.
-Pentru date colectate de servicii terțe (AdMob, Firebase etc.), solicitările trebuie trimise direct operatorilor respectivi.
+16. Changes to This Privacy Policy
 
-8. Modificări ale politicii
+This Privacy Policy may be updated to reflect changes to AI Memory Search, integrated services, platform requirements, or applicable laws.
 
-Politica poate fi actualizată periodic pentru a reflecta modificări legislative sau funcționale.
-Ultima versiune va fi disponibilă întotdeauna în același link GitHub.
+The date of the latest revision will be displayed at the beginning of this Privacy Policy.
+
+17. Contact
+
+For questions regarding this Privacy Policy or the privacy practices of AI Memory Search, users may contact the developer using the support email address published for the application.
